@@ -27,7 +27,7 @@ function yesButtonClicked() {
     container.innerHTML = 
     `
         <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-        <div><p>YAY!!!! I loveeeee uuuuuu my munchkinnnn ❤️❤️❤️</p></div>
+        <div><p>ELELELE!!!! I loveeeee uuuuuu my munchkinnnn ❤️❤️❤️</p></div>
     `;
 }
 
